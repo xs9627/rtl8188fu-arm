@@ -1,4 +1,4 @@
-For Kernel 4.15.x ~ 5.10.x (Linux Mint, Ubuntu or Debian Derivatives)
+For Kernel 4.15.x ~ 5.11.x (Linux Mint, Ubuntu or Debian Derivatives)
 
 ------------------
 
