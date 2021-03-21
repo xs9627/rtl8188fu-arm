@@ -4,6 +4,8 @@ For Kernel 4.15.x ~ 5.11.x (Linux Mint, Ubuntu or Debian Derivatives)
 
 ## How to install (for arm devices)
 
+`sudo ln -s /lib/modules/$(uname -r)/build/arch/arm /lib/modules/$(uname -r)/build/arch/armv7l`
+
 `sudo apt-get install build-essential git dkms linux-headers-$(uname -r)`
 
 `git clone -b arm https://github.com/kelebek333/rtl8188fu rtl8188fu-arm`
