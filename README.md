@@ -16,7 +16,7 @@ For Kernel 4.15.x ~ 5.15.x (Linux Mint, Ubuntu or Debian Derivatives)
 
 `sudo dkms install rtl8188fu/1.0`
 
-`sudo cp ./rtl8188fu/firmware/rtl8188fufw.bin /lib/firmware/rtlwifi/`
+`sudo cp ./rtl8188fu-arm/firmware/rtl8188fufw.bin /lib/firmware/rtlwifi/`
 
 ------------------
 
